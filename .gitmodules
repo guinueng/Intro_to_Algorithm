@@ -1,3 +1,6 @@
 [submodule "assignment_1"]
 	path = assignment_1
 	url = git@github.com:guinueng/CSE331_Assignment_1.git
+[submodule "assignment_2"]
+	path = assignment_2
+	url = git@github.com:guinueng/CSE331_Assignment_2.git
